@@ -34,3 +34,17 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## The plan
+
+I want this site to be able to use in phones, tablets and pcs.
+
+Accessible to all users, Use icons in the Nav bar
+
+Be a similar as style language to the Gran Turismo 2 game UI.
+
+Be in spanish and english versions of the site
+
+Containing photos of irl items I own.
+
+Needs to be fast and straght to the point!
