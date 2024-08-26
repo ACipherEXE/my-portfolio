@@ -1,7 +1,7 @@
 import styles from "./page.module.css";
 import OrangeButton from "@/components/buttons/OrangeButton/OrangeButton";
 import garageImage from "@/imgs/NavBar/garage.svg";
-
+import NavBar from "@/components/NavBar/NavBar";
 export default function Home() {
   return (
     <main className={styles.main}>
@@ -10,6 +10,7 @@ export default function Home() {
         altText="home"
         goToPage="@/app/page"
       />
+      <NavBar />
     </main>
   );
 }
